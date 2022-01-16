@@ -1,2 +1,2 @@
 # simpleChattyBot
-Simple bot that responds to the user 
+Simple bot created in Java that responds to the user 
